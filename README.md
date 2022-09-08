@@ -1,2 +1,2 @@
 # expense-tracker
-expense-tracker app wirtten react
+expense-tracker app wirtten in react
