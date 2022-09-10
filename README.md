@@ -1,2 +1,5 @@
 # expense-tracker
-expense-tracker app wirtten in react
+
+expense-tracker project (React)
+live demo:
+https://expens-tracker-pan-be.netlify.app
